@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "This is sample node and angular project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nageshrag/angularjs-practice.git"
+  },
+  "author": "Nagesh R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nageshrag/angularjs-practice/issues"
+  },
+  "homepage": "https://github.com/nageshrag/angularjs-practice#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
